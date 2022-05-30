@@ -1,0 +1,25 @@
+{
+  "name": "instagram-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/001priyanshu/instagram-clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/001priyanshu/instagram-clone/issues"
+  },
+  "homepage": "https://github.com/001priyanshu/instagram-clone#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongodb": "^4.6.0",
+    "nodemon": "^2.0.16"
+  }
+}
